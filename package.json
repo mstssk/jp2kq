@@ -1,0 +1,19 @@
+{
+  "name": "jp2kq",
+  "version": "0.0.1",
+  "description": "https://mstssk.github.io/jp2kq/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mstssk/jp2kq.git"
+  },
+  "author": "mstssk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mstssk/jp2kq/issues"
+  },
+  "homepage": "https://github.com/mstssk/jp2kq#readme"
+}
